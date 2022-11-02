@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\Rishard Rachmadi\LEC-GSLC\resources\views/footer.blade.php ENDPATH**/ ?>
